@@ -8,5 +8,4 @@ package global.config;
 public interface GlobalConfig {
 
 
-
 }
