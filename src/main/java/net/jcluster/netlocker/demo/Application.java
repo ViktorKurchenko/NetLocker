@@ -1,4 +1,4 @@
-package demo;
+package net.jcluster.netlocker.demo;
 
 /**
  * Demo launcher
